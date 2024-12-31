@@ -18,7 +18,6 @@ public class Impar {
 				System.out.println("IMPAR");
 			}
 			
-			
 			sc.close();
 
 
